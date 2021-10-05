@@ -4,8 +4,8 @@
  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/hello.gif?raw=true" width="450" height="300" />
 <!--  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/welcome.gif?raw=true" width="500" height="220" /> -->
 
-<h1 align="center">Hi! I'M Ravishankar👋</h1>
-<h3 align="center">## I'M Software Engineer & Full Stack Developer.</h3>
+<h1 align="center">Hi, I'M Ravishankar👋</h1>
+<h3 align="center">I'M Software Engineer & Full Stack Developer.</h3>
 
 - 🔭 I’m currently working on [Quickquide](https://quickguide.tech/)
 
