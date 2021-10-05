@@ -1,3 +1,8 @@
+  <a href="https://www.teacheron.com/tutor-profile/44Ct?r=44Ct" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 160px !important; height: 68px !important"></a>  
+  
+ <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/hello.gif?raw=true" width="450" height="300" />
+<!--  <img align="right" alt="GIF" src="https://github.com/HotuRam/HotuRam/blob/main/welcome.gif?raw=true" width="500" height="220" /> -->
+
 <h1 align="center">Hi 👋, I'm Ravishankar Ram</h1>
 <h3 align="center">A highly motivated & experience with proven success in building successful & predictive models for Full Stack Developer. Highly adept in Web development & App Development. A Passionate learner with the ability to develop Apps & web in a professional way.</h3>
 
