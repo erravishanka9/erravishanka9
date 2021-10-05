@@ -23,7 +23,12 @@
 
 - 📫 How to reach me **ravi.btech.ec18@iiitranchi.ac.in**
 
-- 📄 Know about my experiences [KEY SKILLS • Team Player •App development •Web development • Strong command on Frontend & Backend Learning • Programming skills • Strong data base management • Ubuntu](KEY SKILLS • Team Player •App development •Web development • Strong command on Frontend & Backend Learning • Programming skills • Strong data base management • Ubuntu)
+- 📄 Know about my experiences:I'M highly motivated & experience with proven success in building successful & predictive models for
+Full Stack Developer. Highly adept in Web development & App Development. A Passionate learner
+with the ability to develop Apps & web in a professional way. 
+KEY SKILLS
+• Team Player •App development •Web  development  • Strong command on Frontend & Backend  
+Learning • Programming skills • Strong  data base management  • Ubuntu_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
