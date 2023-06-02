@@ -7,17 +7,17 @@
 <h1 align="center">Hi, I'M Ravishankar👋</h1>
 <h3 align="center">I'M Software Engineer & Full Stack Developer.</h3>
 
-- 🔭 I’m currently working on [Quickquide](https://quickguide.tech/)
+- 🔭 I’m currently working on [jnvtimes.in](https://www.jnvtimes.in/)
 
-- 🌱 I’m currently learning **Flutter,DBMS & OS**
+- 🌱 I’m currently learning **SQL,DBMS **
 
-- 👯 I’m looking to collaborate on **Octaedge.in**
+- 👯 I’m looking to collaborate on **jnvtimes.in**
 
-- 🤝 I’m looking for help with [vdev](https://github.com/vdev-in)
+- 🤝 I’m looking for help with [JNV TIMES](https://www.jnvtimes.in/)
 
-- 👨‍💻 All of my projects are available at [https://quickguide.tech/](https://quickguide.tech/)
+- 👨‍💻 All of my projects are available at [jnvtimes.in](https://www.jnvtimes.in/)
 
-- 📝 I regularly write articles on [vdev](vdev)
+- 📝 I regularly write articles on [jnvtimes.in](https://www.jnvtimes.in/)
 
 - 💬 Ask me about **Data Structure and Algorithms**
 
